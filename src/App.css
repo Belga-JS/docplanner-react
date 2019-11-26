@@ -1,0 +1,187 @@
+.header-nav{
+  position:fixed;
+  z-index: 3;
+  width:100%;
+  display: flex;
+  justify-content: space-around;
+  height: 60px;
+  background: hsla(0,0%,100%,.98);
+  
+}
+.logo-doc{
+  width:20%;
+  
+}
+.main-menu{
+  width:20%;
+  list-style: none;
+  display:flex;
+  justify-content: space-around;
+  padding: 2.em 0;
+  float: right;
+  align-items: center;
+}
+.lead-logo{
+  text-align: center;
+}
+.text{
+  text-align: center;
+  color:#7891e0;
+}
+.text-section{
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+}
+.col1{
+  width:45%;
+}
+.col2{
+  width:45%;
+}
+.style-select {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  outline: 0;
+  border: 0;
+  border-radius: 4px;
+  background: #3d83df;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #333;
+  background: #fff;
+  font-weight: 600;
+  letter-spacing: .04em;
+  font-size: .75rem;
+  text-align: center;
+  text-decoration: none!important;
+  transition: all .2s ease 0s;
+  cursor: pointer;
+}
+.domain-switcher {
+  width: 100%;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 0 3.5em 0 1.5em;
+  height: 40px;
+  -webkit-appearance: none;
+  text-transform: uppercase;
+  outline: 0;
+}
+.doctors-parents{
+  display:flex;
+}
+.services-figure img{
+  width: 100%;
+}
+.services-figure2 img {
+  width: 100%;
+}
+.services-items1{
+  background-color: #00ccb1;
+  margin: 40px;
+  border-radius: 10px;
+}   
+.services-items2{
+  background-color:#3d83df;
+  border-radius: 10px;
+}
+.title{
+  color:#00ccb1;
+}
+.logos-section{
+  display:flex;
+  justify-content: space-around; 
+  color:#333;
+}
+.icone-section{
+  display: flex;
+  width:85%;
+  font-size: 80%;
+  margin-left: 10%;
+}
+.platform-glo{
+  display:flex;
+  width:100%;
+  flex-flow: row wrap ;
+  color: #68796c ;
+  background-color:#e5faf8;
+  border-radius: 20px;
+  
+}
+.item1,.item2,.item3,.item4{
+  background: rgb(200, 207, 200);
+  border-radius: 20px;
+  box-shadow: 0 1px 4px 0 #90ac97;
+  height: 200px;
+  width:250px;
+  text-align: center;
+  padding: 20px;
+  font-size: .8150em;
+  margin: 5px;
+}
+.text-palt{
+  width:50%;
+}
+.pays-plat{
+  width:50%;
+  flex-flow: row wrap ;
+  color: #68796c ;
+  background-color:#e5faf8;
+  display:flex;
+}
+.title-doc{
+  text-align: center;
+  color:#00ccb1;
+}
+.parag{
+  text-align: center;
+}
+.offices-slider {
+  margin: 0 -10px;
+  zoom: 1;
+  display:flex;
+  flex-flow: row wrap ;
+  align-items: center;
+  margin-left: 60px;
+}
+.btn {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  outline: 0;
+  border: 0;
+  border-radius: 4px;
+  padding: 1.1666666667em 1.5em;
+  background: #3d83df;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  line-height: 1em;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: .04em;
+  font-size: .75rem;
+  text-align: center;
+  text-decoration: none!important;
+  text-transform: uppercase;
+  transition: all .2s ease 0s;
+}
+.btn-small{
+  font-size: .625rem;
+  padding: 1em 1.5em;
+  float:right;
+}
+.office-desc{
+  display: flex;
+  font-size: 1.125em;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  padding: 1.1111111111em;
+  justify-content: space-around;
+}
+.text-footer{
+  text-align:center;
+}
+
+
+  
