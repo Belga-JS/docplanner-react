@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/docplanner-react/static/css/main.450e6585.chunk.css",
+    "main.js": "/docplanner-react/static/js/main.29c5f326.chunk.js",
+    "main.js.map": "/docplanner-react/static/js/main.29c5f326.chunk.js.map",
+    "runtime-main.js": "/docplanner-react/static/js/runtime-main.a188c2cb.js",
+    "runtime-main.js.map": "/docplanner-react/static/js/runtime-main.a188c2cb.js.map",
+    "static/js/2.61f5f17e.chunk.js": "/docplanner-react/static/js/2.61f5f17e.chunk.js",
+    "static/js/2.61f5f17e.chunk.js.map": "/docplanner-react/static/js/2.61f5f17e.chunk.js.map",
+    "index.html": "/docplanner-react/index.html",
+    "precache-manifest.d59eae7a7eb2b55da7fd12e1295ca703.js": "/docplanner-react/precache-manifest.d59eae7a7eb2b55da7fd12e1295ca703.js",
+    "service-worker.js": "/docplanner-react/service-worker.js",
+    "static/css/main.450e6585.chunk.css.map": "/docplanner-react/static/css/main.450e6585.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a188c2cb.js",
+    "static/js/2.61f5f17e.chunk.js",
+    "static/css/main.450e6585.chunk.css",
+    "static/js/main.29c5f326.chunk.js"
+  ]
+}
